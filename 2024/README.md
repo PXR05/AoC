@@ -1,14 +1,6 @@
 # Advent of Code 2024
 
-This repository contains Python solutions for Advent of Code 2024.
-
-## Structure
-
-- Each day's solution is in its own directory (`d1`, `d2`, etc.)
-- Input files are stored as `input` in each day's directory
-- Solutions are implemented in Python files named `d{day}.py`
-
-> Some solutions may need updated parameters when using the full input. (d14, d18)
+Solutions for Advent of Code 2024.
 
 ## Performance
 
@@ -28,6 +20,8 @@ Based on profiling results, most solutions run in under 1 second. The following 
 | 23  | 1.94           |
 
 All other solutions complete in under 1 second.
+
+> Some solutions may need updated parameters when using the full input. (d14, d18)
 
 > The above times are from running the solutions with my input on a Lenovo Legion 5 Pro with an AMD Ryzen 7 5800H processor.
 
